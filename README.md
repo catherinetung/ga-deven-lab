@@ -1,4 +1,5 @@
 # ga-deven-lab
+<<<<<<< HEAD
 
 <img src="https://i.ibb.co/8Ddq24d/Screen-Shot-2022-01-24-at-5-35-02-PM.png" alt="Screen-Shot-2022-01-24-at-5-35-02-PM" border="0">
 
@@ -246,3 +247,5 @@ __pycache__/
 
 #================================== React ====================================#
 .eslintcache
+=======
+>>>>>>> b5cad742785ab5ff095ef78cffbcbd6aa13d7502
